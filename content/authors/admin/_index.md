@@ -25,11 +25,12 @@ organizations:
     url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computational Cognitive Science, AI4Sci and Artificial Intelligence.
+# bio: My research interests include Computational Cognitive Science, AI4Sci and Artificial Intelligence.
+bio: My research interests include Knowledge Representation, AI4Sci and Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
-  - Computational Cognitive Science
+  - Knowledge Representation
   - AI4Science
   - Artificial Intelligence
 
@@ -126,5 +127,5 @@ highlight_name: true
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 Mingchen Liu is an M.Eng.24 student at [School of Computer Science & Technology](https://cs.hust.edu.cn/), HUST. He is in [Hopcroft Center on Computing Science (HCCS)](https://hccs.hust.edu.cn/), HUST, under the direction of Prof. [Kun He](http://faculty.hust.edu.cn/hekun/zh_CN/index.htm). He used to major in Software Engineering at [School of Software](https://sse.hust.edu.cn/), HUST and minor in Finance at [School of Economics](http://english.eco.hust.edu.cn/index.htm), HUST.
 
-His research interests include Computational Cognitive Science, AI4Science and Artificial Intelligence.
+His research interests include Knowledge Representation, AI4Science and Artificial Intelligence.
 {style="text-align: justify;"}
